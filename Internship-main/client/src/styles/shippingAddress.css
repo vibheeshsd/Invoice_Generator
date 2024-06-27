@@ -1,0 +1,23 @@
+#base-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+#left-span span{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#right-span span{
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#base-container h3{
+    font-weight: 500;
+}
